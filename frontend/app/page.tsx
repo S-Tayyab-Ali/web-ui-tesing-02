@@ -46,7 +46,7 @@ export default function Home() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-3 mb-2">
             <CheckCircle2 className="h-10 w-10 text-indigo-600" />
-            <h1 className="text-4xl font-bold text-gray-900">Todo List</h1>
+            <h1 className="text-4xl font-bold text-gray-900">Todo List 2</h1>
           </div>
           <p className="text-gray-600">Stay organized and track your daily tasks</p>
         </div>
